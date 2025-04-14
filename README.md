@@ -4,7 +4,6 @@
 ---
 
 💡 Passionate about solving real-world problems using Machine Learning, LLMs, and Automation.  
-🚀 Currently building intelligent agents that can generate, test, and fix Python code with zero human intervention.  
 🛠️ Exploring MLOps, Model Deployment, LLMOps, and open-source collaboration.
 
 ---
