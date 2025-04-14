@@ -43,18 +43,6 @@
 
 ---
 
-### 🧩 Tools I’ve Used in These Projects
-
-| Area           | Tools/Frameworks |
-|----------------|------------------|
-| ML / DL        | Scikit-learn, TensorFlow, PyTorch, XGBoost |
-| MLOps          | DVC, GitHub Actions, MLflow |
-| LLM / Agentic AI | Ollama, WizardCoder, DeepSeek-Coder |
-| Frontend       | Streamlit |
-| Version Control | Git, GitHub |
-
----
-
 ### 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/surakiat-kansa-ard-171942351/)
