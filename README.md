@@ -27,6 +27,34 @@
 
 ---
 
+### 📌 Featured Projects
+
+- 🔧 [AutoCoder Agent](https://github.com/SurakiatP/autocoder-agent)  
+  > Agentic AI system that turns a Python task prompt into functioning, tested, and bug-free code using LLMs.
+
+- 📦 [MLOps End-to-End Project](https://github.com/SurakiatP/mlops-dvc-end-to-end-project)  
+  > Production-grade MLOps project using DVC, pipelines, model registry, and GitHub Actions.
+
+- 🧠 [Deep Neural Network from Scratch](https://github.com/SurakiatP/deepnn-from-scratch)  
+  > Implemented forward/backpropagation, activation functions, and optimizers using NumPy only.
+
+- ⚙️ [AutoML System](https://github.com/SurakiatP/automl-system)  
+  > Modular AutoML pipeline for classification problems including model selection & tuning.
+
+---
+
+### 🧩 Tools I’ve Used in These Projects
+
+| Area           | Tools/Frameworks |
+|----------------|------------------|
+| ML / DL        | Scikit-learn, TensorFlow, PyTorch, XGBoost |
+| MLOps          | DVC, GitHub Actions, MLflow |
+| LLM / Agentic AI | Ollama, WizardCoder, DeepSeek-Coder |
+| Frontend       | Streamlit |
+| Version Control | Git, GitHub |
+
+---
+
 ### 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/surakiat-kansa-ard-171942351/)
