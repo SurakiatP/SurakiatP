@@ -19,19 +19,6 @@
 
 ---
 
-### 🚀 Featured Project
-
-🔹 [**AutoCoder Agent**](https://github.com/SurakiatP/autocoder-agent)  
-A full-fledged Agentic AI system that:
-- Generates Python code from natural language
-- Builds test cases automatically
-- Executes & validates code
-- Iteratively fixes bugs using LLMs  
-🌐 Powered by [Ollama](https://ollama.com) + WizardCoder/DeepSeek + Streamlit UI  
-⚡️ Built to showcase production-ready ML engineering skills
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
