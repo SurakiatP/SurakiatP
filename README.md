@@ -41,6 +41,9 @@
 - ⚙️ [AutoML System](https://github.com/SurakiatP/automl-system)  
   > Modular AutoML pipeline for classification problems including model selection & tuning.
 
+- 📈 [Stock Market Direction Prediction](https://github.com/SurakiatP/stock-market-direction-prediction)  
+  > Classifies future market movement using handcrafted financial features (e.g., volatility, crossover, momentum) and ML models like XGBoost/LightGBM.
+
 ---
 
 ### 🌐 Connect with me
