@@ -45,7 +45,7 @@
   > Classifies future market movement using handcrafted financial features (e.g., volatility, crossover, momentum) and ML models like XGBoost/LightGBM.
 
 - 🎯 [MLflow Mini Project](https://github.com/SurakiatP/mlflow-mini-project)
-> End-to-End MLflow pipeline including tracking, registry, model promotion, and API deployment with FastAPI.
+  > End-to-End MLflow pipeline including tracking, registry, model promotion, and API deployment with FastAPI.
 
 ---
 
