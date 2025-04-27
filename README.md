@@ -10,11 +10,11 @@
 
 ### 🔧 Tech Stack
 
-- 👨‍💻 Languages: `Python`, `SQL`, `Bash`, `c/c++`, `JSON`
-- 🧠 ML & Deep Learning: `scikit-learn`, `TensorFlow`, `PyTorch`, `XGBoost`, `OpenCV`
-- 🤖 LLM / Generative AI: `Transformers`, `Ollama`, `Hugging Face`, `LangChain`
-- ⚙️ MLOps & Tools: `DVC`, `MLflow`, `GitHub Actions`, `Docker`, `Streamlit`
-- 📊 Data: `Pandas`, `NumPy`, `Seaborn`, `Matplotlib`
+-  Languages: `Python`, `SQL`, `Bash`, `c/c++`, `JSON`
+-  ML & Deep Learning: `scikit-learn`, `TensorFlow`, `PyTorch`, `XGBoost`, `OpenCV`
+-  LLM / Generative AI: `Transformers`, `Ollama`, `Hugging Face`, `LangChain`
+-  MLOps & Tools: `DVC`, `MLflow`, `GitHub Actions`, `Docker`, `Streamlit`
+-  Data: `Pandas`, `NumPy`, `Seaborn`, `Matplotlib`
 
 ---
 
@@ -29,22 +29,22 @@
 
 ### 📌 Featured Projects
 
-- 🔧 [AutoCoder Agent](https://github.com/SurakiatP/autocoder-agent)  
+-  [AutoCoder Agent](https://github.com/SurakiatP/autocoder-agent)  
   > Agentic AI system that turns a Python task prompt into functioning, tested, and bug-free code using LLMs.
 
-- 📦 [MLOps End-to-End Project](https://github.com/SurakiatP/mlops-dvc-end-to-end-project)  
+-  [MLOps End-to-End Project](https://github.com/SurakiatP/mlops-dvc-end-to-end-project)  
   > Production-grade MLOps project using DVC, pipelines, model registry, and GitHub Actions.
 
-- 🧠 [Deep Neural Network from Scratch](https://github.com/SurakiatP/deepnn-from-scratch)  
+-  [Deep Neural Network from Scratch](https://github.com/SurakiatP/deepnn-from-scratch)  
   > Implemented forward/backpropagation, activation functions, and optimizers using NumPy only.
 
-- ⚙️ [AutoML System](https://github.com/SurakiatP/automl-system)  
+-  [AutoML System](https://github.com/SurakiatP/automl-system)  
   > Modular AutoML pipeline for classification problems including model selection & tuning.
 
-- 📈 [Stock Market Direction Prediction](https://github.com/SurakiatP/stock-market-direction-prediction)  
+-  [Stock Market Direction Prediction](https://github.com/SurakiatP/stock-market-direction-prediction)  
   > Classifies future market movement using handcrafted financial features (e.g., volatility, crossover, momentum) and ML models like XGBoost/LightGBM.
 
-- 🎯 [MLflow Mini Project](https://github.com/SurakiatP/mlflow-mini-project)
+-  [MLflow Mini Project](https://github.com/SurakiatP/mlflow-mini-project)
   > End-to-End MLflow pipeline including tracking, registry, model promotion, and API deployment with FastAPI.
 
 ---
