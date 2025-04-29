@@ -13,7 +13,7 @@
 -  Languages: `Python`, `SQL`, `Bash`, `c/c++`, `JSON`
 -  ML & Deep Learning: `scikit-learn`, `TensorFlow`, `PyTorch`, `XGBoost`, `OpenCV`
 -  LLM / Generative AI: `Transformers`, `Ollama`, `Hugging Face`, `LangChain`
--  MLOps & Tools: `DVC`, `MLflow`, `GitHub Actions`, `Docker`, `Streamlit`, `Grafana`, `FastAPI`, `Prometheus`
+-  MLOps & Tools: `DVC`, `MLflow`, `GitHub Actions`, `Docker`, `Streamlit`, `Grafana`, `FastAPI`, `Prometheus`, `Node-RED`, `InfluxDB`
 -  Data: `Pandas`, `NumPy`, `Seaborn`, `Matplotlib`
 
 ---
