@@ -10,7 +10,7 @@
 
 ### 🔧 Tech Stack
 
--  Languages: `Python`, `SQL`, `Bash`, `c/c++`, `JSON`
+-  Languages: `Python`, `SQL`, `Bash`, `c/c++`, `JSON`, `yaml`, `yml`
 -  ML & Deep Learning: `scikit-learn`, `TensorFlow`, `PyTorch`, `XGBoost`, `OpenCV`
 -  LLM / Generative AI: `Transformers`, `Ollama`, `Hugging Face`, `LangChain`
 -  MLOps & Tools: `DVC`, `MLflow`, `GitHub Actions`, `Docker`, `Streamlit`, `Grafana`, `FastAPI`, `Prometheus`, `Node-RED`, `InfluxDB`, `Apache Kafka`, `Apache Airflow`
