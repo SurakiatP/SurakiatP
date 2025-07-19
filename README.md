@@ -61,13 +61,6 @@
 - Cloud deployment strategies (AWS/GCP/Azure)
 - Real-time ML inference optimization
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SurakiatP&show_icons=true&theme=github_dark" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SurakiatP&theme=github-dark-blue" width="45%"/>
-</p>
-
 ### 🌐 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/surakiat-kansa-ard-171942351/)
