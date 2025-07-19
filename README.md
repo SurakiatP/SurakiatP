@@ -1,33 +1,65 @@
-<h1 align="center">Hi there 👋, I'm Surakiat Kansa-ard</h1>
-<h3 align="center">Machine Learning Engineer | Agentic AI Enthusiast | Builder of Intelligent Systems</h3>
+# Hi there! 👋 I'm Surakiat
 
----
+**Aspiring Junior AI/ML Engineer** passionate about building end-to-end machine learning solutions and exploring the intersection of MLOps, Computer Vision, and Generative AI.
 
-💡 Passionate about leveraging **Machine Learning**, **Large Language Models (LLMs)**, and **Automation** to create real-world solutions that positively impact people's lives.
+## 🚀 About Me
+- 🔭 Currently working on MLOps pipelines and multi-agent systems
+- 🌱 Learning advanced deployment strategies and AI system design
+- 💡 Interested in real-world AI applications that solve business problems
+- 📫 Open to collaboration and learning opportunities
 
-🛠️ Experienced in full-stack **MLOps**, **model deployment**, **LLMOps**, and contributing actively to open-source communities.
+## 🎯 Featured Projects
 
----
+### 🚚 [Uber Delivery Time Prediction - MLOps](https://github.com/SurakiatP/uber-delivery-time-prediction-mlops)
+**End-to-end MLOps pipeline for delivery time prediction**
+- Built production-ready ML pipeline with automated training and deployment
+- Implemented monitoring and model versioning using MLflow and DVC
+- **Tech Stack:** Python, MLflow, DVC, Docker, FastAPI
 
+### 🔄 [MLOps DVC End-to-End Project](https://github.com/SurakiatP/mlops-dvc-end-to-end-project)
+**Complete MLOps workflow with data version control**
+- Designed reproducible ML pipeline from data ingestion to model deployment
+- Implemented CI/CD with GitHub Actions and automated testing
+- **Tech Stack:** DVC, MLflow, GitHub Actions, Docker, Streamlit
 
-### 🔧 Technical Skills & Tools
+### 🤖 [Smart Customer Service Multi-Agent System](https://github.com/SurakiatP/SurakiatP-Smart-Customer-Service-Multi-Agent-System-)
+**AI-powered customer service using multi-agent architecture**
+- Developed intelligent agents using LangChain and Transformers
+- Integrated multiple LLMs for enhanced customer interaction capabilities
+- **Tech Stack:** LangChain, Transformers, Hugging Face, Python
 
-- **Programming Languages:**  
-  `Python`, `SQL`, `Bash`, `C/C++`, `JSON`, `YAML`
+### 🥔 [Potato Disease Detection](https://github.com/SurakiatP/potato_disease_detection)
+**Computer vision solution for agricultural disease identification**
+- Built CNN model for real-time disease classification using TensorFlow
+- Deployed web application with Streamlit for farmer accessibility
+- **Tech Stack:** TensorFlow, OpenCV, Streamlit, Python
 
-- **Machine Learning & Deep Learning:**  
-  `scikit-learn`, `TensorFlow`, `PyTorch`, `XGBoost`, `OpenCV`
+## 🔧 Technical Skills & Tools
 
-- **Generative AI & LLMs:**  
-  `Transformers`, `Hugging Face`, `LangChain`, `Ollama`
+### **Programming Languages**
+`Python` `SQL` `Bash` `C/C++` `JSON` `YAML`
 
-- **MLOps & Deployment:**  
-  `DVC`, `MLflow`, `GitHub Actions`, `Docker`, `Streamlit`, `Grafana`, `FastAPI`, `Prometheus`, `Kafka`, `Airflow`
+### **Machine Learning & Deep Learning**
+`scikit-learn` `TensorFlow` `PyTorch` `XGBoost` `OpenCV`
 
-- **Data Analysis & Visualization:**  
-  `Pandas`, `NumPy`, `Seaborn`, `Matplotlib`
+### **Generative AI & LLMs**
+`Transformers` `Hugging Face` `LangChain` `Ollama`
 
----
+### **MLOps & Deployment**
+`DVC` `MLflow` `GitHub Actions` `Docker` `Streamlit` `Grafana` `FastAPI` `Prometheus` `Kafka` `Airflow`
+
+### **Data Analysis & Visualization**
+`Pandas` `NumPy` `Seaborn` `Matplotlib` `Streamlit` `Plotly`
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SurakiatP&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SurakiatP&layout=compact&theme=radical)
+
+## 🌟 What I'm Learning
+- Advanced MLOps practices and model monitoring
+- Multi-agent systems and LLM orchestration  
+- Cloud deployment strategies (AWS/GCP/Azure)
+- Real-time ML inference optimization
 
 ### 📈 GitHub Stats
 
@@ -35,30 +67,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SurakiatP&show_icons=true&theme=github_dark" width="45%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SurakiatP&theme=github-dark-blue" width="45%"/>
 </p>
-
----
-
-### 📌 Featured Projects
-
-- **[ Uber Delivery Time Prediction (Real-time MLOps)](https://github.com/SurakiatP/uber-delivery-time-prediction-mlops)**
-  > Real-time MLOps pipeline using Apache Kafka, FastAPI, MLflow Model Registry, Airflow automated retraining, Prometheus monitoring, and Grafana visualization.
-
-- **[ AutoCoder Agent](https://github.com/SurakiatP/autocoder-agent)**  
-  > Agentic AI system turning Python task prompts into functional, tested, and debugged code using advanced LLMs.
-
-- **[ MLOps End-to-End Project](https://github.com/SurakiatP/mlops-dvc-end-to-end-project)**  
-  > Production-ready MLOps pipeline with DVC, GitHub Actions, MLflow registry, and reproducible workflows.
-
-- **[ Deep Neural Network from Scratch](https://github.com/SurakiatP/deepnn-from-scratch)**  
-  > Implemented full neural network including forward/backpropagation, activations, optimizers using NumPy.
-
-- **[ AutoML System](https://github.com/SurakiatP/automl-system)**  
-  > Modular AutoML pipeline for automated classification, model selection, hyperparameter tuning, and optimization.
-
-- **[ MLflow Mini Project](https://github.com/SurakiatP/mlflow-mini-project)**  
-  > End-to-end MLflow workflow demonstrating experiment tracking, model registry, versioning, and FastAPI deployment.
-
----
 
 ### 🌐 Let's Connect!
 
