@@ -14,7 +14,7 @@
 - Built comprehensive pipeline for automatic invoice and receipt processing
 - Integrated table detection, text extraction, and document classification
 - Implemented real-time processing with Streamlit interface supporting Thai/English
-- **Tech Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+- **Tech Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white) ![EasyOCR](https://img.shields.io/badge/-EasyOCR-FF69B4?logoColor=white)
 
 ### ![Delivery](https://img.shields.io/badge/Delivery-Prediction-green) [Uber Delivery Time Prediction - MLOps](https://github.com/SurakiatP/uber-delivery-time-prediction-mlops)
 **End-to-end MLOps pipeline for delivery time prediction**
@@ -26,13 +26,14 @@
 **Computer vision system for wildlife detection and classification**
 - Developed deep learning model for multi-class animal recognition using YOLO
 - Implemented data augmentation and transfer learning for improved accuracy
-- **Tech Stack:** ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+- **Tech Stack:** ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?logoColor=black) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 
 ### ![Bot](https://img.shields.io/badge/AI-Assistant-purple) [Smart Customer Service Multi-Agent System](https://github.com/SurakiatP/SurakiatP-Smart-Customer-Service-Multi-Agent-System-)
 **AI-powered customer service using multi-agent architecture**
 - Developed intelligent agents using LangChain and Transformers
 - Integrated multiple LLMs for enhanced customer interaction capabilities
-- **Tech Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
+- **Tech Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logoColor=white)
+![Transformers](https://img.shields.io/badge/-Transformers-FF6F61?logoColor=white)
 
 ## Technical Skills & Tools
 
