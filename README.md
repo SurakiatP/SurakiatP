@@ -20,7 +20,7 @@
 **End-to-end MLOps pipeline for delivery time prediction**
 - Built production-ready ML pipeline with automated training and deployment
 - Implemented monitoring and model versioning using MLflow and DVC
-- **Tech Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
+- **Tech Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?logo=apachekafka&logoColor=white) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
 
 ### ![Animals](https://img.shields.io/badge/Animal-Detection-orange) [Animals Detection Deep Learning](https://github.com/SurakiatP/animals-detection-DeepLearning)
 **Computer vision system for wildlife detection and classification**
@@ -66,6 +66,13 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+
+### **Data Engineering & Monitoring**
+![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/-InfluxDB-22ADF6?logo=influxdb&logoColor=white)
 
 ### **Data Analysis & Visualization**
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
