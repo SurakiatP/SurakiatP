@@ -22,13 +22,13 @@
 - Implemented monitoring and model versioning using MLflow and DVC
 - **Tech Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?logo=apachekafka&logoColor=white) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
 
-### ![Animals](https://img.shields.io/badge/Animal-Detection-orange) [Animals Detection Deep Learning](https://github.com/SurakiatP/animals-detection-DeepLearning)
+### ![Animals](https://img.shields.io/badge/Animal-Detection-orange) [Animals Detection Deep Learning - Object Detection](https://github.com/SurakiatP/animals-detection-DeepLearning)
 **Computer vision system for wildlife detection and classification**
 - Developed deep learning model for multi-class animal recognition using YOLO
 - Implemented data augmentation and transfer learning for improved accuracy
 - **Tech Stack:** ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?logoColor=black) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 
-### ![Bot](https://img.shields.io/badge/AI-Assistant-purple) [Smart Customer Service Multi-Agent System](https://github.com/SurakiatP/SurakiatP-Smart-Customer-Service-Multi-Agent-System-)
+### ![Bot](https://img.shields.io/badge/AI-Assistant-purple) [Smart Customer Service Multi-Agent System - AI Agent](https://github.com/SurakiatP/SurakiatP-Smart-Customer-Service-Multi-Agent-System-)
 **AI-powered customer service using multi-agent architecture**
 - Developed intelligent agents using LangChain and Transformers
 - Integrated multiple LLMs for enhanced customer interaction capabilities
