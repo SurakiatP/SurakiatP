@@ -9,7 +9,7 @@
 
 ## Featured Projects
 
-### ![Document](https://img.shields.io/badge/Document-Processing-blue) [OCR End-to-End Document Classification](https://github.com/SurakiatP/OCR-END-TO-END-DOCUMENT-CLASSIFICATION)
+### ![Document](https://img.shields.io/badge/Document-Processing-blue) [OCR End-to-End Document Classification - OCR](https://github.com/SurakiatP/OCR-END-TO-END-DOCUMENT-CLASSIFICATION)
 **AI-powered document processing system with multilingual OCR**
 - Built comprehensive pipeline for automatic invoice and receipt processing
 - Integrated table detection, text extraction, and document classification
