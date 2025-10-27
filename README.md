@@ -28,12 +28,17 @@
 - Implemented data augmentation and transfer learning for improved accuracy
 - **Tech Stack:** ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?logoColor=black) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 
-### ![Bot](https://img.shields.io/badge/AI-Assistant-purple) [Smart Customer Service Multi-Agent System - AI Agent](https://github.com/SurakiatP/SurakiatP-Smart-Customer-Service-Multi-Agent-System-)
-**AI-powered customer service using multi-agent architecture**
-- Developed intelligent agents using LangChain and Transformers
-- Integrated multiple LLMs for enhanced customer interaction capabilities
-- **Tech Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logoColor=white)
-![Transformers](https://img.shields.io/badge/-Transformers-FF6F61?logoColor=white)
+### ![Shop](https://img.shields.io/badge/Multi--modal-RAG_System-blueviolet) [Multi-modal Shop Helper - AI Product Search](https://github.com/SurakiatP/Multi-modal-RAG)
+**End-to-end AI assistant enabling text, voice, and image-based product search**
+- Architected production-grade RAG pipeline with Qdrant vector database for semantic product retrieval
+- Implemented multi-modal input processing:
+  - **Text**: Paraphrase Multilingual MPNet embeddings (768-dim) for Thai/English queries
+  - **Voice**: Faster-Whisper speech-to-text with real-time transcription
+  - **Image**: CLIP ViT-B/32 model for visual product matching (512-dim)
+- Integrated local LLM inference (Llama 3.2, Gemma 2, Qwen 2.5) via Ollama for natural responses
+- Built dual Gradio interfaces: customer chatbot with voice/TTS and admin product management panel
+- Optimized for GPU acceleration (NVIDIA CUDA) with 86.7% precision and 0.06s avg latency
+- **Tech Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![Qdrant](https://img.shields.io/badge/-Qdrant-DC244C?logoColor=white) ![Gradio](https://img.shields.io/badge/-Gradio-FF7C00?logo=gradio&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-000000?logoColor=white) ![HuggingFace](https://img.shields.io/badge/-Hugging%20Face-FFD21E?logo=huggingface&logoColor=black) ![CLIP](https://img.shields.io/badge/-CLIP-412991?logoColor=white) ![Whisper](https://img.shields.io/badge/-Whisper-00A67E?logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
 ## Technical Skills & Tools
 
@@ -58,6 +63,14 @@
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logoColor=white)
 ![Transformers](https://img.shields.io/badge/-Transformers-FF6F61?logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?logoColor=white)
+![CLIP](https://img.shields.io/badge/-CLIP-412991?logoColor=white)
+![Whisper](https://img.shields.io/badge/-Whisper-00A67E?logoColor=white)
+
+### **Vector Databases & RAG**
+![Qdrant](https://img.shields.io/badge/-Qdrant-DC244C?logoColor=white)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF6B6B?logoColor=white)
+![Sentence Transformers](https://img.shields.io/badge/-Sentence%20Transformers-FFD21E?logoColor=black)
 
 ### **MLOps & Deployment**
 ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=white)
@@ -85,9 +98,11 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SurakiatP&layout=compact&theme=radical)
 
 ## What I'm Learning
+## What I'm Learning
 - Advanced computer vision techniques and document processing
 - YOLO-based object detection and real-time inference
-- Multi-modal AI systems combining vision and language
+- Multi-modal AI systems combining vision, language, and speech
+- RAG architecture and vector database optimization
 - Production-ready MLOps practices and model monitoring
 - Multi-agent systems and LLM orchestration  
 - Cloud deployment strategies (AWS/GCP/Azure)
