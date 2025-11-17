@@ -1,5 +1,5 @@
 # Hi there! I'm Surakiat
-**Aspiring Junior AI/ML Engineer** passionate about building end-to-end machine learning solutions and exploring the intersection of MLOps, Computer Vision, and Generative AI.
+**Aspiring AI/ML Engineer** passionate about building end-to-end machine learning solutions and exploring the intersection of MLOps, Computer Vision, and Generative AI.
 
 ## About Me
 - Currently working on MLOps pipelines and multi-agent systems
