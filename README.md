@@ -9,25 +9,6 @@
 
 ## Featured Projects
 
-### ![Document](https://img.shields.io/badge/Document-Processing-blue) [OCR End-to-End Document Classification - OCR](https://github.com/SurakiatP/OCR-END-TO-END-DOCUMENT-CLASSIFICATION)
-**AI-powered document processing system with multilingual OCR**
-- Built comprehensive pipeline for automatic invoice and receipt processing
-- Integrated table detection, text extraction, and document classification
-- Implemented real-time processing with Streamlit interface supporting Thai/English
-- **Tech Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white) ![EasyOCR](https://img.shields.io/badge/-EasyOCR-FF69B4?logoColor=white)
-
-### ![Delivery](https://img.shields.io/badge/Delivery-Prediction-green) [Uber Delivery Time Prediction - MLOps](https://github.com/SurakiatP/uber-delivery-time-prediction-mlops)
-**End-to-end MLOps pipeline for delivery time prediction**
-- Built production-ready ML pipeline with automated training and deployment
-- Implemented monitoring and model versioning using MLflow and DVC
-- **Tech Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?logo=apachekafka&logoColor=white) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
-
-### ![Animals](https://img.shields.io/badge/Animal-Detection-orange) [Animals Detection Deep Learning - Object Detection](https://github.com/SurakiatP/animals-detection-DeepLearning)
-**Computer vision system for wildlife detection and classification**
-- Developed deep learning model for multi-class animal recognition using YOLO
-- Implemented data augmentation and transfer learning for improved accuracy
-- **Tech Stack:** ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?logoColor=black) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-
 ### ![Shop](https://img.shields.io/badge/Multi--modal-RAG_System-blueviolet) [Multi-modal Shop Helper - AI Product Search](https://github.com/SurakiatP/Multi-modal-RAG)
 **End-to-end AI assistant enabling text, voice, and image-based product search**
 - Architected production-grade RAG pipeline with Qdrant vector database for semantic product retrieval
@@ -39,6 +20,34 @@
 - Built dual Gradio interfaces: customer chatbot with voice/TTS and admin product management panel
 - Optimized for GPU acceleration (NVIDIA CUDA) with 76.7% precision and 0.06s avg latency
 - **Tech Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![Qdrant](https://img.shields.io/badge/-Qdrant-DC244C?logoColor=white) ![Gradio](https://img.shields.io/badge/-Gradio-FF7C00?logo=gradio&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-000000?logoColor=white) ![HuggingFace](https://img.shields.io/badge/-Hugging%20Face-FFD21E?logo=huggingface&logoColor=black) ![CLIP](https://img.shields.io/badge/-CLIP-412991?logoColor=white) ![Whisper](https://img.shields.io/badge/-Whisper-00A67E?logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+
+### ![AI Assistant](https://img.shields.io/badge/Enterprise-AI_Assistant-red) [Internal AI Assistant - LLM Integration + Agentic Routing](https://github.com/SurakiatP/internal-AI-assistant)
+**Enterprise-grade AI system with automated tool routing for document Q&A and issue analysis**
+- Built LLM-powered agentic routing system achieving 100% accuracy across 12+ query types, automatically selecting optimal tools based on user intent
+- Engineered data pipeline with semantic chunking for 94 documents, achieving 40% faster embeddings and 80% storage reduction via optimized vectors (nomic-embed-text)
+- Deployed production RAG pipeline with metadata filtering, vector search optimization, and FastAPI with REST API documentation and health monitoring
+- Implemented intelligent query classification routing between document retrieval and general conversation modes
+- Integrated ChromaDB for efficient vector storage and similarity search with configurable distance metrics
+- **Tech Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF6B6B?logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-000000?logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Sentence Transformers](https://img.shields.io/badge/-Sentence%20Transformers-FFD21E?logoColor=black)
+
+### ![Delivery](https://img.shields.io/badge/Delivery-Prediction-green) [Uber Delivery Time Prediction - MLOps](https://github.com/SurakiatP/uber-delivery-time-prediction-mlops)
+**End-to-end MLOps pipeline for delivery time prediction**
+- Built production-ready ML pipeline with automated training and deployment
+- Implemented monitoring and model versioning using MLflow and DVC
+- **Tech Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?logo=apachekafka&logoColor=white) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
+
+### ![Document](https://img.shields.io/badge/Document-Processing-blue) [OCR End-to-End Document Classification - OCR](https://github.com/SurakiatP/OCR-END-TO-END-DOCUMENT-CLASSIFICATION)
+**AI-powered document processing system with multilingual OCR**
+- Built comprehensive pipeline for automatic invoice and receipt processing
+- Integrated table detection, text extraction, and document classification
+- Implemented real-time processing with Streamlit interface supporting Thai/English
+- **Tech Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white) ![EasyOCR](https://img.shields.io/badge/-EasyOCR-FF69B4?logoColor=white)
+
+### ![Animals](https://img.shields.io/badge/Animal-Detection-orange) [Animals Detection Deep Learning - Object Detection](https://github.com/SurakiatP/animals-detection-DeepLearning)
+**Computer vision system for wildlife detection and classification**
+- Developed deep learning model for multi-class animal recognition using YOLO
+- Implemented data augmentation and transfer learning for improved accuracy
+- **Tech Stack:** ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?logoColor=black) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 
 ## Technical Skills & Tools
 
