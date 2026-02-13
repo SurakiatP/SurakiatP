@@ -39,10 +39,8 @@ I am an ambitious AI Engineer and KMITL graduate (Automation Engineering) with a
 
 ---
 
-### 📈 GitHub Stats
-![Surakiat's Stats](https://github-readme-stats.vercel.app/api?username=SurakiatP&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SurakiatP&layout=compact&theme=radical)
+### 📈 GitHub Profile Summary
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SurakiatP&theme=radical)
 
 ---
 
