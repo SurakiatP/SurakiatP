@@ -1,125 +1,55 @@
-# Hi there! I'm Surakiat
-**Aspiring AI/ML Engineer** passionate about building end-to-end machine learning solutions and exploring the intersection of MLOps, Computer Vision, and Generative AI.
+# Hi there! I'm Surakiat Kansa-ard (Park) 🚀
+**Junior AI Engineer | Specialist in Agentic AI, Multi-modal RAG & MLOps**
 
-## About Me
-- Currently working on MLOps pipelines and multi-agent systems
-- Learning advanced deployment strategies and AI system design
-- Interested in real-world AI applications that solve business problems
-- Open to collaboration and learning opportunities
-
-## Featured Projects
-
-### ![Shop](https://img.shields.io/badge/Multi--modal-RAG_System-blueviolet) [Multi-modal Shop Helper - AI Product Search](https://github.com/SurakiatP/Multi-modal-RAG)
-**End-to-end AI assistant enabling text, voice, and image-based product search**
-- Architected production-grade RAG pipeline with Qdrant vector database for semantic product retrieval
-- Implemented multi-modal input processing:
-  - **Text**: Paraphrase Multilingual MPNet embeddings (768-dim) for Thai/English queries
-  - **Voice**: Faster-Whisper speech-to-text with real-time transcription
-  - **Image**: CLIP ViT-B/32 model for visual product matching (512-dim)
-- Integrated local LLM inference (Llama 3.2, Gemma 2, Qwen 2.5) via Ollama for natural responses
-- Built dual Gradio interfaces: customer chatbot with voice/TTS and admin product management panel
-- Optimized for GPU acceleration (NVIDIA CUDA) with 76.7% precision and 0.06s avg latency
-- **Tech Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![Qdrant](https://img.shields.io/badge/-Qdrant-DC244C?logoColor=white) ![Gradio](https://img.shields.io/badge/-Gradio-FF7C00?logo=gradio&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-000000?logoColor=white) ![HuggingFace](https://img.shields.io/badge/-Hugging%20Face-FFD21E?logo=huggingface&logoColor=black) ![CLIP](https://img.shields.io/badge/-CLIP-412991?logoColor=white) ![Whisper](https://img.shields.io/badge/-Whisper-00A67E?logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-
-### ![AI Assistant](https://img.shields.io/badge/Enterprise-AI_Assistant-red) [Internal AI Assistant - LLM Integration + Agentic Routing](https://github.com/SurakiatP/internal-AI-assistant)
-**Enterprise-grade AI system with automated tool routing for document Q&A and issue analysis**
-- Built LLM-powered agentic routing system achieving 100% accuracy across 12+ query types, automatically selecting optimal tools based on user intent
-- Engineered data pipeline with semantic chunking for 94 documents, achieving 40% faster embeddings and 80% storage reduction via optimized vectors (nomic-embed-text)
-- Deployed production RAG pipeline with metadata filtering, vector search optimization, and FastAPI with REST API documentation and health monitoring
-- Implemented intelligent query classification routing between document retrieval and general conversation modes
-- Integrated Qdrant vector database for efficient similarity search with metadata filtering and Python SDK
-- **Tech Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-000000?logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![Qdrant](https://img.shields.io/badge/-Qdrant-DC244C?logoColor=white) ![Gradio](https://img.shields.io/badge/-Gradio-FF7C00?logo=gradio&logoColor=white) ![Sentence Transformers](https://img.shields.io/badge/-Sentence%20Transformers-FFD21E?logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-
-### ![Delivery](https://img.shields.io/badge/Delivery-Prediction-green) [Uber Delivery Time Prediction - MLOps](https://github.com/SurakiatP/uber-delivery-time-prediction-mlops)
-**End-to-end MLOps pipeline for delivery time prediction**
-- Built production-ready ML pipeline with automated training and deployment
-- Implemented monitoring and model versioning using MLflow and DVC
-- **Tech Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?logo=apachekafka&logoColor=white) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
-
-### ![Document](https://img.shields.io/badge/Document-Processing-blue) [OCR End-to-End Document Classification - OCR](https://github.com/SurakiatP/OCR-END-TO-END-DOCUMENT-CLASSIFICATION)
-**AI-powered document processing system with multilingual OCR**
-- Built comprehensive pipeline for automatic invoice and receipt processing
-- Integrated table detection, text extraction, and document classification
-- Implemented real-time processing with Streamlit interface supporting Thai/English
-- **Tech Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white) ![EasyOCR](https://img.shields.io/badge/-EasyOCR-FF69B4?logoColor=white)
-
-### ![Animals](https://img.shields.io/badge/Animal-Detection-orange) [Animals Detection Deep Learning - Object Detection](https://github.com/SurakiatP/animals-detection-DeepLearning)
-**Computer vision system for wildlife detection and classification**
-- Developed deep learning model for multi-class animal recognition using YOLO
-- Implemented data augmentation and transfer learning for improved accuracy
-- **Tech Stack:** ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?logoColor=black) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-
-## Technical Skills & Tools
-
-### **Programming Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
-
-### **Machine Learning & Deep Learning**
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![XGBoost](https://img.shields.io/badge/-XGBoost-FF6600?logoColor=white)
-
-### **Computer Vision & Object Detection**
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?logoColor=black)
-![EasyOCR](https://img.shields.io/badge/-EasyOCR-FF69B4?logoColor=white)
-
-### **Generative AI & LLMs**
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logoColor=white)
-![Transformers](https://img.shields.io/badge/-Transformers-FF6F61?logoColor=white)
-![Ollama](https://img.shields.io/badge/-Ollama-000000?logoColor=white)
-![CLIP](https://img.shields.io/badge/-CLIP-412991?logoColor=white)
-![Whisper](https://img.shields.io/badge/-Whisper-00A67E?logoColor=white)
-
-### **Vector Databases & RAG**
-![Qdrant](https://img.shields.io/badge/-Qdrant-DC244C?logoColor=white)
-![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF6B6B?logoColor=white)
-![Sentence Transformers](https://img.shields.io/badge/-Sentence%20Transformers-FFD21E?logoColor=black)
-
-### **MLOps & Deployment**
-![MLflow](https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=white)
-![DVC](https://img.shields.io/badge/-DVC-13ADC7?logo=dvc&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-
-### **Data Engineering & Monitoring**
-![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
-![InfluxDB](https://img.shields.io/badge/-InfluxDB-22ADF6?logo=influxdb&logoColor=white)
-
-### **Data Analysis & Visualization**
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logoColor=white)
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white)
-
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SurakiatP&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SurakiatP&layout=compact&theme=radical)
-
-## What I'm Learning
-## What I'm Learning
-- Advanced computer vision techniques and document processing
-- YOLO-based object detection and real-time inference
-- Multi-modal AI systems combining vision, language, and speech
-- RAG architecture and vector database optimization
-- Production-ready MLOps practices and model monitoring
-- Multi-agent systems and LLM orchestration  
-- Cloud deployment strategies (AWS/GCP/Azure)
-- Real-time ML inference optimization
-
-### Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surakiat-kansa-ard-171942351/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/SurakiatP)
+I am an ambitious AI Engineer and KMITL graduate (Automation Engineering) with a growth mindset. I specialize in architecting **Agentic AI workflows** and building scalable, end-to-end solutions that combine **Multi-modal RAG**, **Computer Vision**, and production-ready **MLOps** pipelines.
 
 ---
-> **"Build systems that think and learn. Let your work speak your intelligence."** — Surakiat Kansa-ard
+
+### 💻 Technical Toolbox
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white) |
+| **AI/ML & DL** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/-XGBoost-FF6600?logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) |
+| **GenAI & LLMs** | ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logoColor=white) **LangGraph**, **Agentic AI**, **Prompt Engineering**, **Hugging Face**, **Ollama**, **NLP** |
+| **LLM APIs** | ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white) **Gemini API**, **Claude API**, **DeepSeek API**, **Groq Cloud API** |
+| **Computer Vision** | ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) **CLIP**, **EasyOCR**, **Tesseract**, **YOLO**, **Image Classification** |
+| **Vector & Data** | **Qdrant**, **FAISS**, **Chroma**, **RedisVL**, **Apache Kafka**, **Apache Airflow**, **PyThaiNLP** |
+| **MLOps & DevOps** | ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=white) ![DVC](https://img.shields.io/badge/-DVC-13ADC7?logo=dvc&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) **DeepEval**, **Langfuse**, **GitHub Actions**, **CI/CD** |
+| **Backend & UI** | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white) **Gradio**, **Matplotlib**, **Plotly**, **Grafana**, **Prometheus** |
+
+---
+
+### 🌟 Featured Projects
+
+#### 🤖 [Multi-modal RAG Shop Assistant](https://github.com/SurakiatP/Multi-modal-RAG)
+**End-to-end system for product search via Text, Voice, and Image queries.**
+* **Impact:** Achieved **0% hallucination** and **93.5% answer relevance** with <1s response time.
+* **Tech:** `CLIP`, `Qdrant`, `Groq (Qwen-3 32B)`, `Faster-Whisper`, `Opik`.
+
+#### 📄 [Multi-Stage Retrieval RAG System](https://github.com/SurakiatP/Multi-Stage-Retrieval-RAG)
+**Bilingual (Thai/English) RAG for corporate policies with hybrid search and reranking.**
+* **Impact:** **96.7% evaluation accuracy** using DeepEval (LLM-as-a-Judge) for policy conflict resolution.
+* **Tech:** `Hybrid Search (BM25+FAISS)`, `BGE-Reranker`, `PyThaiNLP`, `Docling`, `Ollama`.
+
+#### 🚚 [Uber Delivery Time Prediction (MLOps)](https://github.com/SurakiatP/uber-delivery-time-prediction-mlops)
+**Full-lifecycle MLOps pipeline from PoC to automated production monitoring.**
+* **Impact:** Reduced training time by **60%** and maintained **95%+ prediction success rate**.
+* **Tech:** `XGBoost`, `MLflow`, `Apache Airflow`, `Kafka`, `Prometheus`, `Grafana`.
+
+---
+
+### 📈 GitHub Stats
+![Surakiat's Stats](https://github-readme-stats.vercel.app/api?username=SurakiatP&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SurakiatP&layout=compact&theme=radical)
+
+---
+
+### 📫 Let's Connect!
+- **LinkedIn:** [surakiat-kansa-ard](https://www.linkedin.com/in/surakiat-kansa-ard-171942351/)
+- **Portfolio:** [park-surakiat.vercel.app](https://park-surakiat.vercel.app/)
+- **Email:** surakiat.0723@gmail.com
+- **Location:** Bangkok, Thailand
+
+> **"Engineering robust, autonomous AI systems that deliver transformative results."**
