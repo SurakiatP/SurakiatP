@@ -22,7 +22,12 @@ I am an ambitious AI Engineer and KMITL graduate (Automation Engineering) with a
 
 ### 🌟 Featured Projects
 
-#### 🤖 [Multi-modal RAG Shop Assistant](https://github.com/SurakiatP/Multi-modal-RAG)
+#### 🤖 [Agentic Research System](https://github.com/SurakiatP/agentic-research-system)
+**Powerful, multi-agent AI research system with semantic caching and intelligent routing.**
+* **Impact:** Executed flawless research plans with **100% Faithfulness & Relevancy**, reducing costs to **~$0.09/Query**.
+* **Tech:** `LangGraph`, `FastMCP`, `DeepSeek`, `Redis (Cache)`, `PostgreSQL (LTM)`, `DeepEval`.
+
+#### 🛒 [Multi-modal RAG Shop Assistant](https://github.com/SurakiatP/Multi-modal-RAG)
 **End-to-end system for product search via Text, Voice, and Image queries.**
 * **Impact:** Achieved **0% hallucination** and **93.5% answer relevance** with <1s response time.
 * **Tech:** `CLIP`, `Qdrant`, `Groq (Qwen-3 32B)`, `Faster-Whisper`, `Opik`.
